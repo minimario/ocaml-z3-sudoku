@@ -1,0 +1,165 @@
+sat
+(
+  (define-fun board_7_3 () Int
+    4)
+  (define-fun board_7_1 () Int
+    5)
+  (define-fun board_5_7 () Int
+    3)
+  (define-fun board_3_1 () Int
+    2)
+  (define-fun board_5_3 () Int
+    2)
+  (define-fun board_6_3 () Int
+    5)
+  (define-fun board_0_5 () Int
+    5)
+  (define-fun board_1_5 () Int
+    4)
+  (define-fun board_2_1 () Int
+    1)
+  (define-fun board_3_8 () Int
+    9)
+  (define-fun board_6_7 () Int
+    4)
+  (define-fun board_4_0 () Int
+    4)
+  (define-fun board_0_6 () Int
+    6)
+  (define-fun board_1_6 () Int
+    8)
+  (define-fun board_7_4 () Int
+    7)
+  (define-fun board_1_4 () Int
+    1)
+  (define-fun board_3_2 () Int
+    5)
+  (define-fun board_1_7 () Int
+    5)
+  (define-fun board_2_3 () Int
+    6)
+  (define-fun board_3_5 () Int
+    8)
+  (define-fun board_0_1 () Int
+    3)
+  (define-fun board_6_2 () Int
+    7)
+  (define-fun board_5_6 () Int
+    4)
+  (define-fun board_4_4 () Int
+    5)
+  (define-fun board_5_0 () Int
+    7)
+  (define-fun board_6_5 () Int
+    2)
+  (define-fun board_7_0 () Int
+    8)
+  (define-fun board_7_2 () Int
+    3)
+  (define-fun board_5_1 () Int
+    8)
+  (define-fun board_7_6 () Int
+    2)
+  (define-fun board_8_3 () Int
+    3)
+  (define-fun board_8_4 () Int
+    9)
+  (define-fun board_8_7 () Int
+    7)
+  (define-fun board_1_2 () Int
+    2)
+  (define-fun board_2_7 () Int
+    2)
+  (define-fun board_8_2 () Int
+    6)
+  (define-fun board_6_1 () Int
+    9)
+  (define-fun board_1_8 () Int
+    3)
+  (define-fun board_4_5 () Int
+    3)
+  (define-fun board_2_5 () Int
+    7)
+  (define-fun board_4_8 () Int
+    2)
+  (define-fun board_4_3 () Int
+    1)
+  (define-fun board_3_7 () Int
+    6)
+  (define-fun board_0_4 () Int
+    2)
+  (define-fun board_8_8 () Int
+    8)
+  (define-fun board_2_6 () Int
+    9)
+  (define-fun board_0_0 () Int
+    9)
+  (define-fun board_8_6 () Int
+    5)
+  (define-fun board_8_5 () Int
+    1)
+  (define-fun board_8_1 () Int
+    4)
+  (define-fun board_8_0 () Int
+    2)
+  (define-fun board_7_8 () Int
+    1)
+  (define-fun board_7_7 () Int
+    9)
+  (define-fun board_7_5 () Int
+    6)
+  (define-fun board_6_8 () Int
+    6)
+  (define-fun board_6_6 () Int
+    3)
+  (define-fun board_6_4 () Int
+    8)
+  (define-fun board_6_0 () Int
+    1)
+  (define-fun board_5_8 () Int
+    5)
+  (define-fun board_5_5 () Int
+    9)
+  (define-fun board_5_4 () Int
+    6)
+  (define-fun board_5_2 () Int
+    1)
+  (define-fun board_4_7 () Int
+    8)
+  (define-fun board_4_6 () Int
+    7)
+  (define-fun board_4_2 () Int
+    9)
+  (define-fun board_4_1 () Int
+    6)
+  (define-fun board_3_6 () Int
+    1)
+  (define-fun board_3_4 () Int
+    4)
+  (define-fun board_3_3 () Int
+    7)
+  (define-fun board_3_0 () Int
+    3)
+  (define-fun board_2_8 () Int
+    4)
+  (define-fun board_2_4 () Int
+    3)
+  (define-fun board_2_2 () Int
+    8)
+  (define-fun board_2_0 () Int
+    5)
+  (define-fun board_1_3 () Int
+    9)
+  (define-fun board_1_1 () Int
+    7)
+  (define-fun board_1_0 () Int
+    6)
+  (define-fun board_0_8 () Int
+    7)
+  (define-fun board_0_7 () Int
+    1)
+  (define-fun board_0_3 () Int
+    8)
+  (define-fun board_0_2 () Int
+    4)
+)

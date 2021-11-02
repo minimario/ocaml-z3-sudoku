@@ -1,0 +1,8 @@
+### Starting build.
+# Target: parse_output.ml.depends, tags: { package(core), extension:ml, file:parse_output.ml, ocaml, ocamldep, quiet, thread, traverse }
+ocamlfind ocamldep -package core -modules parse_output.ml > parse_output.ml.depends # cached
+# Target: parse_output.cmo, tags: { package(core), byte, compile, extension:cmo, extension:ml, file:parse_output.cmo, file:parse_output.ml, implem, ocaml, quiet, thread, traverse }
+ocamlfind ocamlc -c -thread -package core -o parse_output.cmo parse_output.ml # cached
+# Target: parse_output.byte, tags: { package(core), byte, dont_link_with, extension:byte, file:parse_output.byte, link, ocaml, program, quiet, thread, traverse }
+ocamlfind ocamlc -linkpkg -thread -package core parse_output.cmo -o parse_output.byte # cached
+# Compilation successful.
